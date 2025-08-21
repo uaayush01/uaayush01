@@ -1,6 +1,12 @@
 # 💫 About Me:
-# Hi there, I'm Aayush 👋  <br><br>🎓 B.Tech Graduate | 💻 Full Stack Developer<br><br>- 🔭 Currently working on: MERN stack projects & AI-based applications  <br>- 🌱 Learning: Data Structures & Algorithms | Machine Learning | System Design  <br>- 👯 Looking to collaborate on: Open source projects & real-world applications  <br>- ⚡ Fun fact: I love solving real-life problems through code 🚀  
+Hi there, I’m Aayush 👋
 
+🎓 B.Tech Graduate | 💻 Full Stack Developer
+
+- 🔭 Currently working on: MERN stack projects & AI-based applications
+- 🌱 Learning: Data Structures & Algorithms | Machine Learning | System Design
+- 👯 Looking to collaborate on: Open source projects & real-world applications
+- ⚡ Fun fact: I love solving real-life problems through code 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aayush-upadhyay-0107aaayush) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uaayush08@gmail.com) 
